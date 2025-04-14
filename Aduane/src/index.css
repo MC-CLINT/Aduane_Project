@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  :root {
+    --primary-color: #014325;
+    --secondary-color: #FFB40B;
+    --accent-color: #F64d00;
+    --neutral-color: #FFFFFF;
+    --dark-color: #272f31;
+  }
+};
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+ 
+
+body{
+  min-height: 100vh;
+}
