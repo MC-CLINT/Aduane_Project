@@ -21,3 +21,8 @@ a{
 body{
   min-height: 100vh;
 }
+
+.myapp{
+  width: 80%;
+  margin: auto;
+}
