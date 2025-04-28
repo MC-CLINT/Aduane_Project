@@ -1,0 +1,47 @@
+
+:root {
+    --primary-color: #014325;
+    --secondary-color: #FFB40B;
+    --accent-color: #F64d00;
+    --neutral-color: #FFFFFF;
+    --dark-color: #272f31;
+  }
+
+.header{
+   height: 40vw;
+    background: url('/header_bg.png') no-repeat ;
+    background-size: contain;
+    position: relative;
+}
+
+.header-container{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    max-width: 50%;
+    gap: 2vw;
+    bottom: 45%;
+    left: 2.5vw;
+}
+
+.header-container h2{
+    font-size: max(2.1vw, 25px);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.header-container p{
+    font-size: max(1.5vw, 12 px);
+    color: var(--dark-color);
+    font-weight: 400;
+}
+
+.header-container button{
+    border: none;
+    color: var(--dark-color);
+    font-weight: 500;
+    padding: 1vw 2.3vw;
+    background-color: white;
+    border-radius: 50px;
+}

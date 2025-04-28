@@ -33,6 +33,7 @@ import waakye from './waakye.png';
 import waakyere from './waakyere.png';
 import search_icon from './search_icon.png';
 import basket_icon from './basket_icon.png';
+import header_bg from './header_bg.png';
 
 
 export const images = {
@@ -71,6 +72,7 @@ export const images = {
     "waakyere": waakyere,
     'search_icon': search_icon,
     'basket_icon': basket_icon,
+    'header_bg': header_bg,
 
 }
 
