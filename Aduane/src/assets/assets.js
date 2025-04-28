@@ -76,3 +76,48 @@ export const images = {
 
 }
 
+
+
+export const menu_items = [
+    {
+        menu_name: 'Rice Dishes',
+        menu_image: waakye
+    },
+
+    {
+        menu_name: 'Cassava Dishes',
+        menu_image: fufu
+    },
+
+    {
+        menu_name: 'Maize Dishes',
+        menu_image: banku
+    },
+
+    {
+        menu_name: 'Legume Dishes',
+        menu_image: beans
+    },
+
+    {
+        menu_name: 'Fish Dishes',
+        menu_image: tilapia
+    },
+
+    {
+        menu_name: 'Vegetable Dishes',
+        menu_image: kontonmire
+    },
+
+    {
+        menu_name: 'Yam Dishes',
+        menu_image: friedyam
+    },
+
+    {
+        menu_name: 'Chicken/Meat Dishes',
+        menu_image: fchicken
+    }
+
+]
+

@@ -21,8 +21,9 @@
     align-items: start;
     max-width: 50%;
     gap: 2vw;
-    bottom: 44%;
+    bottom: 45%;
     left: 2.5vw;
+    animation: fadeIn 3s ease-in-out;
 }
 
 .header-container h2{
