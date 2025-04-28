@@ -6,7 +6,7 @@ import { useState } from 'react'
 
 const home = () => {
 
-const {category, setCategory} = useState('All')
+const [category, setCategory] = useState('All')
   return (
     <div>
 
